@@ -51,7 +51,7 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 <img src='https://i.imgur.com/9e3H0Ud.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-<img src='https://submissions.us-east-1.linodeobjects.com/web102/2mvXolfI.gif'
+
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with imgur and windows screen recording
 <!-- Recommended tools:
